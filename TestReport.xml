@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="/UCI" id="now" tests="7" failures="1" errors="0">
+  <testsuite name="" id="_id_" tests="1" failures="0" errors="0">
+    <testcase name="pass (info lost)" id="_testcase_id_"/>
+  </testsuite>
+  <testsuite name="" id="_id_" tests="1" failures="0" errors="0">
+    <testcase name="pass (info lost)" id="_testcase_id_"/>
+  </testsuite>
+  <testsuite name="" id="_id_" tests="1" failures="0" errors="0">
+    <testcase name="pass (info lost)" id="_testcase_id_"/>
+  </testsuite>
+  <testsuite name="" id="_id_" tests="1" failures="0" errors="0">
+    <testcase name="pass (info lost)" id="_testcase_id_"/>
+  </testsuite>
+  <testsuite name="" id="_id_" tests="1" failures="0" errors="0">
+    <testcase name="pass (info lost)" id="_testcase_id_"/>
+  </testsuite>
+  <testsuite name="ForestFires" id="_id_" tests="2" failures="1" errors="0">
+    <testcase name="contains(registration_block, &quot;A Data Mining Approach to Predict Forest Fires using Meteorological Data&quot;)" id="_testcase_id_">
+      <failure message="nothing" type="test">Test Failed
+  Expression: contains(registration_block, "A Data Mining Approach to Predict Forest Fires using Meteorological Data")</failure>
+    </testcase>
+    <testcase name="pass (info lost)" id="_testcase_id_"/>
+  </testsuite>
+</testsuites>
