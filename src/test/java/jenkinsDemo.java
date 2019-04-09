@@ -23,8 +23,7 @@ public class JenkinsDemo
         driver = new ChromeDriver();
         driver.get(Base_Url);
     }
-
-    @After
+    
     public void after()
     {
         driver.quit();
